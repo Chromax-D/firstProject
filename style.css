@@ -339,6 +339,7 @@ header{
     display: flex;
     gap: 30px;
     justify-content: flex-end;
+    margin-bottom: 20px;
 }
 
 .foot-icons img{
@@ -416,6 +417,7 @@ header{
 
     #toggler{
         z-index: 800;
+        top: 35px;
     }
 
     #toggler-close{
